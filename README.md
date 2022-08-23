@@ -1,4 +1,5 @@
-# The "Find the Bone! Return Home!" Game: A 2D Game created from scratch using Java
+# The "Find the Bone! Return Home!" Game
+## A 2D Game created from scratch using Java
 
 Welcome! This repository holds the code I have written to develop a fun little 2D game, called "Find the Bone! Return Home!". The mission of this game is for you, as the dog featured in the picture below, to retrieve 5 bones placed somewhere in the map and return 'HOME' as fast as you can. Along the way, you may also encounter up and down arrow items that will change your speed accordingly, so be aware!
 
